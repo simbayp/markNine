@@ -8,6 +8,6 @@ This React app lets you see the favorite songs of the author in different catego
 
 - CSS
 
--JSX
+- JSX
 
 Hosted (CodeSandbox)
